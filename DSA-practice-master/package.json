@@ -1,0 +1,13 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "main": "big-o-notation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node big-o-notation.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
