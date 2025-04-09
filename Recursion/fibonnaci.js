@@ -8,4 +8,6 @@ function fibonacci(n) {
   }
 }
 
-console.log(fibonacci(7))
+console.log(fibonacci(8))
+
+const str = 'sanju'

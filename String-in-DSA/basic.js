@@ -1,0 +1,15 @@
+const str = 'sanju'
+
+console.log(str.length)
+console.log(str.toUpperCase())
+console.log(str.toLowerCase())
+console.log(str.includes('man'))
+console.log(str.replace('s','m'))
+console.log(str.split(''))
+console.log(str.charAt(1))
+console.log(str[2])
+console.log(str.charCodeAt(0))
+console.log(String.fromCharCode(65))
+console.log(String.fromCharCode(90))
+console.log(String.fromCharCode(97))
+console.log(String.fromCharCode(122))
