@@ -116,6 +116,5 @@ ll.deleteNode(15);
 console.log("After deleting 15:");
 ll.display();
 
-
 let node1 = new Node(10);
 console.log(node1);
