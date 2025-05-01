@@ -17,4 +17,4 @@ function isBalanced(s){
   return result.length === 0
 }
 
-console.log(isBalanced('(){}[]')) 
+console.log(isBalanced('((({{}})))')) 
