@@ -38,7 +38,6 @@ class LinkedList{
   }
 
   insert(data) {
-
     let newNode = new Node(data)
     if(this.head == null){
       this.head = newNode
